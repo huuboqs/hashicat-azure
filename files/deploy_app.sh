@@ -12,7 +12,7 @@ cat << EOM > /var/www/html/index.html
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Welcome to Huu's World!</h2></center>
   Welcome to ${PREFIX}'s app.<br>
-  You are in ${LOCATION}.<br>
+  You are in ${location}.<br>
   <br>
   <h1>BOOYAA</h1>
   
